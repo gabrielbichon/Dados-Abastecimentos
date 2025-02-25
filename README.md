@@ -13,12 +13,12 @@ O dataset contém registros de abastecimento de 190 veículos ao longo de um per
 
 # 📌 Colunas do dataset:
 
-placa → Identificação fictícia do veículo (exemplo: "A1234")
-motorista → Nome fictício do motorista
-modelo_veiculo → Tipo de veículo (ex: Sedan, SUV, Pickup, etc.)
-km_rodado → Distância percorrida no período
-valor_abastecido → Valor gasto com combustível
-km_por_litro → Eficiência do veículo em km/l
+- placa → Identificação fictícia do veículo (exemplo: "A1234")
+- motorista → Nome fictício do motorista
+- modelo_veiculo → Tipo de veículo (ex: Sedan, SUV, Pickup, etc.)
+- km_rodado → Distância percorrida no período
+- valor_abastecido → Valor gasto com combustível
+- km_por_litro → Eficiência do veículo em km/l
 
 # 📈 Principais Análises Realizadas
 ✅ Comparação do consumo médio de combustível por tipo de veículo.
