@@ -2,11 +2,13 @@
 
 # Análise de Dados de Abastecimento da Frota 🚗⛽
 📌 Sobre o Projeto
+
 Este repositório contém uma análise fictícia de abastecimento de uma frota de veículos. O objetivo é demonstrar técnicas de manipulação e visualização de dados utilizando Python e bibliotecas como pandas e matplotlib.
 
 ⚠️ Importante: Os dados foram anonimizados e gerados de forma sintética para preservar informações sensíveis.
 
 📊 Dados Utilizados
+
 O dataset contém registros de abastecimento de 190 veículos ao longo de um período.
 
 # 📌 Colunas do dataset:
